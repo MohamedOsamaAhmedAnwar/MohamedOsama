@@ -12,7 +12,7 @@
 </em></p>
 
 [![Twitter: MrHarvv](https://img.shields.io/twitter/follow/MrHarvv?style=social)](https://x.com/MrHarvv)
-[![Linkedin: mohamedosama](https://img.shields.io/badge/-mohamedosama-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-osama-074bb42b4/)](https://www.linkedin.com/in/mohamed-osama-074bb42b4/)
+[![Linkedin: mohamedosama](https://img.shields.io/badge/-mohamedosama-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamedosamaahmed/)](https://www.linkedin.com/in/mohamedosamaahmed/)
 [![GitHub MrPhoenixPhilanthropy](https://img.shields.io/github/followers/MrPhoenixPhilanthropy?label=follow&style=social)](https://github.com/MrPhoenixPhilanthropy)
 
 
