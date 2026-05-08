@@ -8,7 +8,7 @@
 - 🌍 I'm mostly active within the **machine learning Community**
 - my graduation project : https://doi.org/10.1016/j.comcom.2021.04.029
 
-<p><em>Software Enginner at <a href="https://www.hti.edu.eg/">HTI</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="60">
+<p><em>Software Enginner at <a href="https://www.hti.edu.eg/">HTI</a>
 </em></p>
 
 [![Twitter: MrHarvv](https://img.shields.io/twitter/follow/MrHarvv?style=social)](https://x.com/MrHarvv)
